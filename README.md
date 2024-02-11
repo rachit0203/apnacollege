@@ -1,3 +1,4 @@
 # apnacollege
 this is my first git repository 
-Author - Rachit Mishra
+<br>
+Author - Rachit Mishra  (Biet Jhansi)
